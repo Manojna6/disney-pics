@@ -1,0 +1,36 @@
+.grid {
+    width: 450px;
+    height: 700px;
+}
+
+body {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+h1 {
+    font-family: fantasy;
+}
+
+hr {
+    color: white;
+}
+
+.y {
+    width: 300px;
+    height: 400px;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+#s {
+    width: 300px;
+    height: 400px;
+}
+
+#p {
+    width: 300px;
+    height: 400px;
+}
